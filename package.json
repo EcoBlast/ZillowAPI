@@ -1,0 +1,14 @@
+{
+  "name": "kulahari",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.2",
+    "express": "~4.14.0",
+    "mongoose": "^4.5.7",
+    "node-zillow": "^1.0.1"
+  }
+}
